@@ -4,9 +4,7 @@ Welcome to the Sarke Handbook! This repository serves as a central resource for 
 ## Sections
 Our handbook is organized into several sections, each covering an essential aspect of our company's operations:
 
-- [Engineering](https://github.com/sarke-org/handbook/blob/main/engineering.md): Information about our development process, coding standards, and technology stack.
-
-Contributions
+- [Engineering](#engineering.md): Information about our development process, coding standards, and technology stack.
 
 ## Contributions
 We value contributions from everyone in our projects, and we encourage you to get involved! If you want to contribute to a specific project or library, please refer to its contribution guidelines.
